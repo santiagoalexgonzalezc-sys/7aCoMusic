@@ -1,0 +1,249 @@
+{
+
+"Home":[
+
+    {"image1":"./Fotos/primeraFoto.jpg"},
+    {"text1":"Discover Colombia's Rich Music Culture"}
+    
+],
+
+"Music":[
+
+    {"text1":"Colombia's Music"},
+    {"image1":"./Fotos/primeraFoto2.jpg"},
+
+    {"text2":"Discover Colombia's music here"},
+
+    {"text3":"Genre 1"},
+    {"text4":"Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"},
+    {"image2":"./Fotos/primeraFoto2.jpg"},
+    {"sound1":"./Audio/defaultSound.mp3"},
+
+    {"text5":"Genre 2"},
+    {"text6":"Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"},
+    {"image3":"./Fotos/primeraFoto.jpg"},
+    {"sound2":"./Audio/defaultSound.mp3"},
+
+    {"text7":"Genre 3"},
+    {"text8":"Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"},
+    {"image4":"./Fotos/primeraFoto2.jpg"},
+    {"sound3":"./Audio/defaultSound.mp3"},
+
+    {"text9":"Genre 4"},
+    {"text10":"Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"},
+    {"image5":"./Fotos/primeraFoto.jpg"},
+    {"sound4":"./Audio/defaultSound.mp3"},
+
+    {"text11":"Genre 5"},
+    {"text12":"Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"},
+    {"image6":"./Fotos/primeraFoto2.jpg"},
+    {"sound5":"./Audio/defaultSound.mp3"},
+
+    {"text13":"Genre 6"},
+    {"text14":"Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"},
+    {"image7":"./Fotos/primeraFoto.jpg"},
+    {"sound6":"./Audio/defaultSound.mp3"},
+
+    {"text15":"Genre 7"},
+    {"text16":"Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"},
+    {"image8":"./Fotos/primeraFoto2.jpg"},
+    {"sound7":"./Audio/defaultSound.mp3"},
+
+    {"text17":"Genre 8"},
+    {"text18":"Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"},
+    {"image9":"./Fotos/primeraFoto.jpg"},
+    {"sound8":"./Audio/defaultSound.mp3"},
+
+    {"text19":"Genre 9"},
+    {"text20":"Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"},
+    {"image10":"./Fotos/primeraFoto2.jpg"},
+    {"sound9":"./Audio/defaultSound.mp3"},
+
+    {"text21":"Genre 10"},
+    {"text22":"Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"},
+    {"image11":"./Fotos/primeraFoto.jpg"},
+    {"sound10":"./Audio/defaultSound.mp3"},
+
+    {"text23":"Genre 11"},
+    {"text24":"Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"},
+    {"image12":"./Fotos/primeraFoto2.jpg"},
+    {"sound11":"./Audio/defaultSound.mp3"},
+
+    {"text25":"Genre 12"},
+    {"text26":"Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"},
+    {"image13":"./Fotos/primeraFoto.jpg"},
+    {"sound12":"./Audio/defaultSound.mp3"},
+
+    {"text27":"Genre 13"},
+    {"text28":"Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"},
+    {"image14":"./Fotos/primeraFoto2.jpg"},
+    {"sound13":"./Audio/defaultSound.mp3"},
+
+    {"text29":"Genre 14"},
+    {"text30":"Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"},
+    {"image15":"./Fotos/primeraFoto.jpg"},
+    {"sound14":"./Audio/defaultSound.mp3"},
+
+    {"text31":"Genre 15"},
+    {"text32":"Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"},
+    {"image16":"./Fotos/primeraFoto2.jpg"},
+    {"sound15":"./Audio/defaultSound.mp3"}
+
+
+],
+
+"History":[
+
+
+    {"image1":"./Fotos/primeraFoto.jpg"},
+    {"text1":"History"},
+
+    {"text2":"Discover Colombia's history here"},
+
+
+    {"text3":"Pre-Columbian Era (Pre-1500s)"},
+    {"text4":"Indigenous Foundations: Long before Spanish arrival, groups like the Kuna, Kogui, and Chimila used music for sacred rituals."},
+    {"text5":"Original Instruments: Music was primarily wind and percussion-based, featuring the gaita (cactus flute) and the guacharaca (a notched scraping instrument mimicking bird sounds)."}, 
+
+    {"text6":"Colonial Fusion (1500s – 1800s)"},
+    {"text7":"Birth of Cumbia: As the Spanish brought enslaved Africans to the Caribbean coast, their drumming traditions merged with indigenous flutes. Early Cumbia began as a courtship dance; the short, sliding steps are said to represent the shackles worn by enslaved people."},
+    {"text8":"African Percussion: New instruments like the tambora (double-headed drum) and marimba de chonta (Pacific coast xylophone) became central to Afro-Colombian identities."},
+    {"text9":"European Influence: The Spanish introduced string instruments (guitars, harps) and poetic song structures (coplas), leading to the development of interior highland genres like Bambuco and Pasillo."},
+
+    {"text10":"The Arrival of the Accordion (Mid-1800s to 1900s)"},
+    {"text11":"Evolution of Vallenato: German accordions arrived through Caribbean ports like Riohacha in the mid-19th century. Local musicians swapped traditional flutes for the accordion, giving birth to modern Vallenato."},
+    {"text12":"The Tiple: The 12-string tiple was officially recognized as the national instrument during this period, becoming a staple of Andean folk music. "},
+
+    {"text13":"The Golden Age & Recording Era (1930s to 1960s)"},
+    {"text14":"Big Band Cumbia: In the 1940s and 50s, bandleaders like Lucho Bermúdez and Pacho Galán adapted rural cumbia and porro for sophisticated urban orchestras."},
+    {"text15":"Discos Fuentes: Founded in 1934, this legendary label became the backbone of the Colombian music industry, recording the first mass-produced tropical hits."},
+    {"text16":"Rock and Pop: The 1960s saw the Golden Age of Cumbia alongside the rise of local rock bands like Los Speakers, who blended British Invasion sounds with Colombian flair"},
+
+    {"text17":"Globalization & Modern Fusion (1970s)"},
+    {"text18":"Salsa Caleña: In the 1970s, Cali adopted New York salsa, accelerating the tempo and creating its own world-renowned style."},
+    {"text19":"The New Colombian Sound: In the 1990s, Carlos Vives revolutionized Vallenato by adding electric guitars and rock energy in his album Clásicos de la Provincia."},
+    {"text20":"Urban Dominance: The 1980s saw the birth of Champeta in Cartagena’s Afro-descendant neighborhoods. By the 2000s, Colombia became a global hub for Reggaeton and Latin Pop, led by artists like Shakira, Juanes, J Balvin, and Karol G."},
+    
+
+    {"text21":"The Global Expansion (2010_2020)"},
+    {"text22":"The Medellín Hub: During this decade, Medellín became the Epicentre of Reggaeton. Artists like J Balvin, Karol G, and Maluma softened the original Puerto Rican sound, making it more melodic and globally commercial—often compared to what Atlanta did for Hip Hop."},
+    {"text23":"Mainstream Fusion: Pop icons like Shakira and Juanes continued to integrate traditional Colombian elements into global pop, proving the country's sounds could dominate international charts"},
+
+
+    {"text24":"The Current Era: Roots & Afrobeats (2020 TO 2026)"},
+    {"text25":"Afrobeats Dominance: A massive trend in 2025 and 2026 is the surge of Colombian Afrobeats. Streams for the genre in Colombia have grown by over 580% since 2022. Artists from the Caribbean coast, like Hamilton, Beéle, and Kapo, are blending traditional rhythms with sleek modern production."},
+    {"text26":"The Música Popular Revival: There has been a significant rediscovery of Vallenato and Música Popular (regional folk music focused on heartbreak) among Gen Z listeners. Local streams for traditional Vallenato increased by 50% in the last year as younger fans reconnect with legacy icons like Los Diablitos."},
+    {"text27":"Modern Champeta: Champeta, once a local rhythm from Cartagena's barrios, has evolved into a global movement. New-wave stars like Zaider and Luister La Voz are merging these African roots with contemporary urban beats, a trend accelerated by Shakira's 2020 Super Bowl performance."},
+    {"text28":"Technological Shifts: By 2026, the industry is increasingly shaped by AI-assisted production and immersive VR/AR concert experiences, allowing artists to reach global audiences without leaving Colombia."}
+
+],
+
+"Indigenous":[
+
+    {"text1":" Indigenous Music "},
+    {"image1":"./Fotos/primeraFoto2.jpg"},
+
+    {"text2":"Discover Colombia's Indigenous music here"},
+
+    {"text3":"Gaita (Kuisis)"},
+    {"text4":"These ancestral cactus flutes are the heartbeat of the Caribbean. Traditionally played in pairs—the macho (male) for rhythm and the hembra (female) for melody—they mimic the sounds of nature and birds, bridging the gap between the physical and spiritual worlds."},
+    {"image2":"./Fotos/primeraFoto2.jpg"},
+
+    {"text5":"Wayuu Yonna (Chichamaya)"},
+    {"text6":"A powerful ritual dance from the La Guajira desert. To the steady beat of the kasha drum, women in flowing red mantles chase men in a circular arena, symbolizing the balance of power, gender harmony, and the movements of sacred animals."},
+    {"image3":"./Fotos/primeraFoto2.jpg"},
+
+    {"text7":"Kogui Flute Rituals"},
+    {"text8":"Performed by the Elder Brothers of the Sierra Nevada, this music is a sacred dialogue with Aluna (Mother Earth). These melodies are not for entertainment but are vital offerings (pagamentos) intended to maintain the equilibrium of the entire world."},
+    {"image4":"./Fotos/primeraFoto2.jpg"},
+
+    {"text9":"Tonadas Indígenas"},
+    {"text10":"These are the  songs of the jungle sacred, often wordless vocalizations used by Amazonian tribes to communicate with plant spirits and animal protectors during shamanic ceremonies."},
+    {"image5":"./Fotos/primeraFoto.jpg"},
+
+    {"text11":"Yapurutu"},
+    {"text12":"Found in the Vaupés region, these long, sacred flutes are played during the Dances of the Great House. They are considered living beings that connect the community to their mythic origins in the stars."},
+    {"image6":"./Fotos/primeraFoto2.jpg"},
+
+    {"text13":"Sanjuanito (Inga & Kamëntsá)"},
+    {"text14":"A joyful, rhythmic genre from the southern Putumayo region. It is the soundtrack to the Carnival of Forgiveness, where indigenous communities use flutes and drums to celebrate reconciliation and the arrival of the new year."},
+    {"image7":"./Fotos/primeraFoto.jpg"},
+
+    {"text15":"Guabina"},
+    {"text16":"A melodic, often melancholic rhythm that reflects the soul of the Andean peasant. It carries a strong indigenous influence in its structure, typically accompanied by the tiple and the bandola."},
+    {"image8":"./Fotos/primeraFoto2.jpg"},
+
+    {"text17":"Rajaleña"},
+    {"text18":"While it has evolved into a folk style, its roots lie in the indigenous chants of the Huila region. It is characterized by its mischievous lyrics and the use of the queco (indigenous flute)."},
+    {"image9":"./Fotos/primeraFoto.jpg"},
+
+    {"text19":"Cantos de Zafra"},
+    {"text20":"These are work songs or harvest chants found in the northern valleys. They represent a unique blend of indigenous vocal traditions and colonial labor history, often sung to keep pace during the harvest."},
+    {"image10":"./Fotos/primeraFoto2.jpg"},
+
+    {"text21":"Yanomami Chants"},
+    {"text22":"Representing music in its most primal form, these chants rely entirely on the human voice. They are used for social cohesion, resolving conflicts, and narrating the tribe's creation myths."},
+    {"image11":"./Fotos/primeraFoto.jpg"},
+
+    {"text23":"Ticuna Flute Music"},
+    {"text24":"The Ticuna people use flutes to mark lifes most important transitions, such as the Pelazón (female rite of passage). The music is often paired with the deep, resonant booms of the Maguaré—giant log drums used to talk to the spirits."},
+    {"image12":"./Fotos/primeraFoto2.jpg"},
+
+    {"text25":"Ticuna Maguaré Drumming"},
+    {"text26":"Beyond the flute, the Maguaré is a communication system. These massive hollowed logs are struck to send messages across the jungle and summon spirits during communal ceremonies."},
+    {"image13":"./Fotos/primeraFoto.jpg"},
+
+    {"text27":"Arhuaco Sacred Music"},
+    {"text28":"Similar to the Kogui, the Arhuaco use music as a form of meditation and environmental stewardship, often featuring the carrizos (flutes) to maintain cosmic order."},
+    {"image14":"./Fotos/primeraFoto2.jpg"},
+
+    {"text29":"Tukano Sacred Trumpets "},
+    {"text30":"Distinct from the general Yapurutu, these specific instruments are used in highly secretive male initiation rites to represent the voice of the ancestors."},
+    {"image15":"./Fotos/primeraFoto.jpg"},
+
+    {"text31":"Nukak Maku Vocalizations (Amazon)"},
+    {"text32":"Being one of the last nomadic tribes, their music consists of subtle, soft vocalizations used during hunting and moving through the deep jungle."},
+    {"image16":"./Fotos/primeraFoto2.jpg"}
+ 
+
+],
+
+"MapOfColombia":[
+
+    {"image1":"./Fotos/primeraFoto.jpg"},
+    {"text1":"Map Of Colombia"},
+
+    {"text2":"Discover Colombia's map  here"},
+
+    {"image2":"./Fotos/PhotosOFWebsite/MapColombia.png"}
+],
+
+"Resources":[
+
+    {"image1":"./Fotos/primeraFoto2.jpg"},
+    {"text1":"Resources"},
+
+    {"text2":"Discover the resources of our information"},
+
+    {"text3":"https://colombia.co/"},
+    {"text4":"https://folkways.si.edu/"},
+    {"text5":"https://lulocolombia.travel/"},
+    {"text6":"https://www.soundonsound.com/"},
+    {"text7":"https://folkcloud.com/"},
+    {"text8":"https://mytriptocolombia.com/cumbia-music-of-colombia-caribbean/"},
+    {"text9":"https://folkways.si.edu/music-of-colombia/latin-world/album/smithsonian"},
+    {"text10":"https://bnbcolombia.com/music-of-colombia-amazonas/"},
+    {"text11":"https://learnmorethanspanish.com/blog/10-colombian-music-genres-need-know-about/"},
+    {"text12":"https://en.wikipedia.org/wiki/Music_of_Colombia"},    
+    {"text13":"https://sk.sagepub.com/ency/edvol/the-sage-international-encyclopedia-of-music-and-culture/chpt/colombia-history-culture-geography-music"},
+    {"text14":"https://ich.unesco.org/en/state/colombia-CO"},
+    
+    {"text15":"https://www.w3schools.com/"},
+    {"text16":"https://www.w3schools.com/"},
+    {"text17":"https://www.w3schools.com/"},
+    {"text18":"https://www.w3schools.com/"},
+    {"text19":"https://www.w3schools.com/"},
+    {"text20":"https://www.w3schools.com/"}
+]
+
+}

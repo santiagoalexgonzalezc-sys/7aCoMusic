@@ -1,0 +1,307 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap');
+
+body {
+  
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin: 0;
+}
+/* Text stays between 16px and 24px */
+html {
+  scroll-behavior: smooth;
+
+}
+
+#topMenu {
+  width: 100%;     
+  height: 10vh;
+  top: 0;        
+  position:fixed;
+  z-index: 1000;  
+  background: linear-gradient(to bottom, rgb(124, 123, 123, .90), rgba(206, 205, 205, 0.90)); ;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  flex-wrap: nowrap;
+  gap: 50px;  
+  margin-right: 0%;
+  margin-left: 0%;
+  padding: 0%;
+
+}
+#miniTopMenuDiv {
+  display: none;
+  width: 100%;
+  height: 75vh;
+  top: 0;
+  position: fixed;
+  z-index: 1000;
+  background-color: rgba(0, 0, 0, 0.76);
+  display: flex;
+  flex-direction: column;
+  align-items:center;
+  flex-wrap:nowrap;  
+
+}
+/*320*/
+.buttons {
+  border: transparent;
+  border-radius: 20%;
+  font-weight: bold;
+  background-color: rgba(1, 1, 1, 0.048);
+  display: flex;
+  font-size: clamp(1rem, 2.5vw, 2rem);
+  color: rgb(19, 70, 134);
+  transition: background-color 0.2s ease-in-out, transform 0.2s ease-in-out;
+  margin-right: 0%;
+  margin-left: 0%;
+  padding: 0%;  
+}
+
+#pageSignature {
+  border: transparent;
+  border-radius: 20%;
+  font-weight: bold;
+  background-color: transparent;
+  color: rgb(134, 19, 19);
+  display: flex;
+  font-size: clamp(1rem, 2.5vw, 2rem);
+  transition: background-color 0.2s ease-in-out, transform 0.2s ease-in-out;
+  margin-right: 0%;
+  margin-left: 0%;
+  padding: 0%;  
+}
+
+#pageSignature:active {
+  transform: translateY(0.1px);
+  cursor:default;
+}
+
+.buttonsMiniMenu {
+ border: transparent;
+  font-weight: bold;
+  background-color: rgba(1, 1, 1, 0.11);
+  display: flex;
+  font-size: clamp(1.5rem, 3.5vw, 3rem);
+  color: rgb(255, 255, 255);
+  transition: background-color 0.2s ease-in-out, transform 0.2s ease-in-out;
+  margin-right: 0%; 
+  margin-left: 0%;
+  padding: 0%;  
+  margin-bottom: 5vh;
+  cursor:pointer;
+
+}
+#miniMenuSection {
+  display: none;
+  background-color:rgb(0, 56, 147, 0.90) ;
+  margin-top: 5vh ;
+  margin-bottom: 5vh;
+}
+.buttons:active {
+  background-color: #80beff; 
+  transform: translateY(2px);   
+  cursor: pointer;
+}
+#firstTitle {
+  display: flex;
+  justify-content: center;
+  font-size: 2300px;
+  font-weight: 100;
+  transform: translateY(50px);
+  color: rgb(254, 178, 26);
+}
+.image-container {
+  position: relative;
+  display: inline-block;  
+  width: 100%;           
+}
+.image-container img {
+  width: 100%;
+  height: 100vh;
+  display: block;       
+}
+.image-container-half {
+  position: relative;
+  display: inline-block;
+  width: 100%;           
+}
+.image-container-half img {
+  width: 100%;
+  height: 50vh;
+  display: block;       
+}
+.normalImage {
+  position: relative;
+  display: inline-block;
+  width: 60%;
+  height: auto;
+}
+.title-overlay {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%); 
+  color: rgb(254, 178, 26);
+  background-color: rgba(0, 0, 0, 0.39); 
+  padding: 2vh 2vw;
+  font-size: clamp(2rem, 8vw, 7rem);    
+}
+.subtitle-overlay {
+  color: rgb(189, 126, 1);
+  padding: 2vh 2vw;
+  font-size: clamp(1rem, 5vw, 4rem);  
+
+}
+.subtitle-overlay-smaller {
+  color: rgba(126, 1, 1, 0.80);
+  padding: 2vh 2vw;
+  font-size: clamp(0.5rem, 4vw, 3rem);  
+  font-weight: 700;
+}
+.section {
+  display: flex;
+  align-items: center;
+  flex-direction: column; 
+}
+.p {
+  font-size: clamp(0.8rem, 2.5vw, 2rem);
+  margin: 0 auto; 
+  max-width: 60%;
+  color: #000000;
+  transform: translateZ(0);
+  will-change: transform;
+  font-weight: 350;
+} 
+
+.claseLinks {
+  font-size: clamp(0.8rem, 2.5vw, 2rem); ;
+  margin: 0 auto; 
+  max-width: 100%;
+  transform: translateZ(0);
+  will-change: transform;
+  font-weight: 200;
+  color: #000000;
+  
+}
+
+
+
+audio {
+  width: 60%;
+  cursor: pointer;
+}
+.imgMiniButtonMenu {
+  content: url('./Fotos/miniMenuIcon.png'); 
+}
+
+
+.imgMiniButtonMenu.new-image {
+  content: url('./Fotos/miniMenuIcon2.png'); 
+}
+
+
+.pageContentContainer {
+  position: relative;
+  flex-direction: column;
+  text-align: center; 
+  width: 100%;
+  margin: 0 auto;   
+  z-index: 1;
+  transition: transform 1.5s ease-in-out;
+  
+}
+
+
+
+
+
+#bg-container {
+  position: fixed; 
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover; 
+  z-index: -1; 
+  overflow: hidden;
+  opacity: 0.9;
+}
+
+.bg-slide {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  /* Smoothness of the slide */
+  transition: transform 1.5s ease-in-out; 
+  transform: translateX(-100%); /* Start hidden on the left */
+}
+
+.bg-slide.active {
+  transform: translateX(0);
+}
+
+.bg-slide.exit {
+  transform: translateX(100%);
+}
+
+
+#miniButtonMenu {
+  display: none;
+  padding: 1%;
+}
+.imgMiniButtonMenu {
+  display: none;
+}
+@media screen and (max-width: 1300px) {
+  #firstTitle {
+    font-size: 100px;
+    color: aliceblue;
+  }
+  .buttons {
+    font-size: clamp(1rem, 1.5vw, 1rem);
+  }
+}
+@media screen and (max-width: 880px) {
+  #topMenu {
+    gap:5px;
+  }
+  #pageSignature {
+    display: flex;
+  }
+  .p {
+    max-width: 80%;
+  }
+
+  .normalImage {
+    width: 80%;
+  }
+}
+@media screen and (max-width: 599px) {
+  .buttons {
+    display: none;
+  }
+  #miniButtonMenu {
+    display: flex;
+    padding: 1%;
+  }
+   
+  #miniButtonMenu:active  {
+    transform: translateY(-2px);
+    
+  }
+
+  .imgMiniButtonMenu {
+    display: flex;
+  }
+
+  .p {
+    max-width: 99%;
+  }
+
+  .normalImage {
+    width: 99%;
+  }
+}
