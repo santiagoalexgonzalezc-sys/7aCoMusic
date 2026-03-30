@@ -436,20 +436,6 @@ async function loadData() {
         textResources13.textContent = data.Resources[13].text13;
         textResources14.href = data.Resources[14].text14;
         textResources14.textContent = data.Resources[14].text14;
-        textResources15.href = data.Resources[15].text15;
-        textResources15.textContent = data.Resources[15].text15;
-        textResources16.href = data.Resources[16].text16;
-        textResources16.textContent = data.Resources[16].text16;
-        textResources17.href = data.Resources[17].text17;
-        textResources17.textContent = data.Resources[17].text17;
-        textResources18.href = data.Resources[18].text18;
-        textResources18.textContent = data.Resources[18].text18;
-
-        textResources19.href = data.Resources[19].text19;
-        textResources19.textContent = data.Resources[19].text19;
-
-        textResources20.href = data.Resources[20].text20;
-        textResources20.textContent = data.Resources[20].text20;
         
     } catch (error) {
         console.error('Error loading JSON:', error);
