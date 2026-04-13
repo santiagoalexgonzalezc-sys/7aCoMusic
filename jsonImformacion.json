@@ -15,27 +15,27 @@
     {"text2":"Discover Colombia's music here"},
 
     {"text3":"Cumbia"},
-    {"text4":"Cumbia is Colombia’s most iconic genre and one of the country’s greatest musical symbols. Born on the Caribbean coast, it blends Indigenous, African, and Spanish influences into a rhythm known for its drums, flutes, maracas, and dance tradition."},
+    {"text4":"Cumbia is Colombia’s most iconic genre and a national symbol of cultural fusion. Originating on the Caribbean coast, it blends Indigenous flutes (gaitas), African drums, and Spanish influences. Traditionally danced with candles at night, it represents courtship rituals and storytelling, and it later spread across Latin America becoming an international genre."},
     {"image2":"./Fotos/primeraFoto2.jpg"},
     {"sound1":"./Audio/defaultSound.mp3"},
 
     {"text5":"Vallenato"},
-    {"text6":"Vallenato is one of Colombia’s most famous and beloved genres, especially from the Caribbean region. It is traditionally built around the accordion, caja, and guacharaca, and its songs often tell stories of love, memory, humor, and daily life."},
+    {"text6":"Vallenato comes from the Caribbean region, especially Valledupar, and is built around the accordion, caja drum, and guacharaca. Its songs are divided into rhythms like paseo, merengue, son, and puya, and traditionally tell detailed stories about love, travel, and daily life, making it one of Colombia’s most narrative musical forms."},
     {"image3":"./Fotos/primeraFoto.jpg"},
     {"sound2":"./Audio/defaultSound.mp3"},
 
     {"text7":"Salsa Caleña"},
-    {"text8":"Salsa Caleña is the Colombian style of salsa most strongly identified with Cali, often called the salsa capital of the world. It is known for its speed, energy, precise footwork, and major role in Colombian dance culture."},
+    {"text8":"Salsa Caleña is the high-energy Colombian style of salsa born in Cali, known as the 'Salsa Capital of the World'. It is famous for its extremely fast footwork, sharp movements, and strong influence from local dance schools, making it one of the most visually dynamic forms of salsa globally."},
     {"image4":"./Fotos/primeraFoto2.jpg"},
     {"sound3":"./Audio/defaultSound.mp3"},
 
     {"text9":"Joropo Llanero"},
-    {"text10":"Joropo is one of the best-known genres of eastern Colombia and a defining sound of the Llanos. Traditionally performed with harp, cuatro, and maracas, it is fast, expressive, and deeply tied to llanero identity and dance."},
+    {"text10":"Joropo is the defining musical genre of Colombia’s eastern plains (Llanos), shared with Venezuela. It is performed with harp, cuatro, and maracas, and is known for its fast rhythms and intricate footwork called zapateo. The music reflects the life of the llanero (cowboy), including cattle work, nature, and regional pride, and is often performed in competitions and festivals."},
     {"image5":"./Fotos/primeraFoto.jpg"},
     {"sound4":"./Audio/defaultSound.mp3"},
 
     {"text11":"Bambuco"},
-    {"text12":"Bambuco is one of the most representative genres of the Colombian Andes. With its elegant melodies and close association with guitar, tiple, and bandola, it has long been seen as a cornerstone of Colombian traditional music."},
+    {"text12":"Bambuco is one of the most important traditional genres of the Colombian Andes. Known for its complex rhythms and elegant melodies, it is typically performed with guitar, tiple, and bandola. It has long been considered a national musical symbol and is closely tied to poetry, romance, and Colombian cultural identity."},
     {"image6":"./Fotos/primeraFoto2.jpg"},
     {"sound5":"./Audio/defaultSound.mp3"},
 
@@ -45,47 +45,47 @@
     {"sound6":"./Audio/defaultSound.mp3"},
 
     {"text15":"Currulao"},
-    {"text16":"Currulao is the signature traditional rhythm of Colombia’s Pacific coast. Rooted in Afro-Colombian heritage, it is known for the marimba de chonta, drums, and call-and-response energy that connect music, dance, and community life."},
+    {"text16":"Currulao is the most important traditional genre of Colombia’s Pacific coast, deeply rooted in Afro-Colombian culture. It features the marimba de chonta, cununo drums, and call-and-response singing, and is often performed during community gatherings, religious celebrations, and ancestral rituals."},
     {"image8":"./Fotos/primeraFoto2.jpg"},
     {"sound7":"./Audio/defaultSound.mp3"},
 
     {"text17":"Porro"},
-    {"text18":"Porro is a festive Caribbean genre strongly associated with brass bands and dance celebrations. Its joyful, powerful sound has made it one of the most recognizable traditional rhythms in Colombian popular culture."},
+    {"text18":"Porro is a lively Caribbean genre traditionally performed by brass bands known as bandas. Originating in the savanna regions, it combines African rhythms with wind instruments, creating a powerful and festive sound commonly heard at parades, corralejas, and public celebrations."},
     {"image9":"./Fotos/primeraFoto.jpg"},
     {"sound8":"./Audio/defaultSound.mp3"},
 
     {"text19":"Bullerengue"},
-    {"text20":"Bullerengue is an Afro-Colombian genre from the Caribbean coast centered on drums, clapping, and vocal expression. It is especially valued for its strong oral tradition, communal performance, and deep cultural roots."},
+    {"text20":"Bullerengue is an Afro-Colombian musical tradition led primarily by women and rooted in the Caribbean coast. It features call-and-response singing, hand clapping, and drums, and is closely connected to community life, oral history, and rites of passage such as puberty and motherhood."},
     {"image10":"./Fotos/primeraFoto2.jpg"},
     {"sound9":"./Audio/defaultSound.mp3"},
 
     {"text21":"Mapale"},
-    {"text22":"Mapale is one of Colombia’s most energetic traditional coastal rhythms. Famous for its fast drum patterns and intense dance movements, it is widely recognized as a vibrant Afro-Colombian musical expression."},
+    {"text22":"Mapalé is a high-energy Afro-Colombian rhythm known for its fast drumming and expressive dance movements. Originating from enslaved African communities, it was traditionally performed at night after work and symbolizes freedom, resistance, and cultural survival."},
     {"image11":"./Fotos/primeraFoto.jpg"},
     {"sound10":"./Audio/defaultSound.mp3"},
 
     {"text23":"Champeta"},
-    {"text24":"Champeta is one of the most recognizable urban-Caribbean genres of Colombia, especially linked to Cartagena and the coast. With strong African influence and powerful dance energy, it became a major social and musical phenomenon."},
+    {"text24":"Champeta is an urban Afro-Caribbean genre that emerged in Cartagena and Barranquilla. Influenced by African music styles such as soukous and highlife, it features electronic beats and strong rhythms. Once marginalized, it has become a powerful symbol of Afro-Colombian identity and pride."},
     {"image12":"./Fotos/primeraFoto2.jpg"},
     {"sound11":"./Audio/defaultSound.mp3"},
 
     {"text25":"Guabina"},
-    {"text26":"Guabina is a well-known traditional Andean genre, especially associated with rural life and melodic vocal expression. It holds an important place in Colombian folk music because of its warm, intimate, and regional character."},
+    {"text26":"Guabina is a traditional Andean genre associated with rural communities, especially in Santander and Boyacá. It features gentle melodies, poetic lyrics, and string instruments like the tiple and guitar, often reflecting themes of love, landscape, and everyday life."},
     {"image13":"./Fotos/primeraFoto.jpg"},
     {"sound12":"./Audio/defaultSound.mp3"},
 
     {"text27":"Torbellino"},
-    {"text28":"Torbellino is a lively traditional Andean rhythm that remains one of the most recognized folkloric forms in central and eastern Colombia. It is closely tied to peasant tradition, dance, and string instruments such as the tiple and guitar."},
+    {"text28":"Torbellino is a fast-paced Andean folk rhythm known for its lively dance and strong connection to peasant traditions. It is commonly performed during festivals and social gatherings, using instruments like the tiple, requinto, and guitar, and reflects the energy and resilience of rural communities."},
     {"image14":"./Fotos/primeraFoto2.jpg"},
     {"sound13":"./Audio/defaultSound.mp3"},
 
     {"text29":"Musica Popular Colombiana"},
-    {"text30":"Musica Popular is one of the most widely heard Colombian genres today, especially in everyday popular culture. It draws from ranchera, regional ballad traditions, and Colombian sentimentality, often focusing on heartbreak, pride, and lived experience."},
+    {"text30":"Música Popular Colombiana is a modern genre deeply rooted in traditional ranchera and Andean styles. It focuses on emotional storytelling, especially themes of heartbreak, love, and personal struggle, and is widely popular across Colombia in both rural and urban settings."},
     {"image15":"./Fotos/primeraFoto.jpg"},
     {"sound14":"./Audio/defaultSound.mp3"},
 
     {"text31":"Carranga"},
-    {"text32":"Carranga is one of the most recognizable modern folk genres from the Colombian Andes, especially Boyaca and Cundinamarca. With humorous storytelling, rural themes, and acoustic instrumentation, it became a beloved symbol of Colombian regional identity."},
+    {"text32":"Carranga is a modern Colombian folk genre from Boyacá and Cundinamarca, popularized in the 20th century. It combines traditional Andean instruments with humorous and satirical lyrics about rural life, making it both entertaining and culturally significant."},
     {"image16":"./Fotos/primeraFoto2.jpg"},
     {"sound15":"./Audio/defaultSound.mp3"}
 
@@ -146,63 +146,63 @@
     {"text2":"Discover Colombia's Indigenous music here"},
 
     {"text3":"Gaita (Kuisis)"},
-    {"text4":"These ancestral cactus flutes are the heartbeat of the Caribbean. Traditionally played in pairs—the macho (male) for rhythm and the hembra (female) for melody—they mimic the sounds of nature and birds, bridging the gap between the physical and spiritual worlds."},
+    {"text4":"These ancestral cactus flutes are the heartbeat of the Caribbean. Traditionally played in pairs—the macho (male) for rhythm and the hembra (female) for melody—they mimic the sounds of nature and birds, bridging the gap between the physical and spiritual worlds. The gaita is often accompanied by maracas and drums such as the tambor alegre, creating hypnotic rhythms used in ceremonies, storytelling, and early forms of what later evolved into cumbia."},
     {"image2":"./Fotos/primeraFoto2.jpg"},
 
     {"text5":"Wayuu Yonna (Chichamaya)"},
-    {"text6":"A powerful ritual dance from the La Guajira desert. To the steady beat of the kasha drum, women in flowing red mantles chase men in a circular arena, symbolizing the balance of power, gender harmony, and the movements of sacred animals."},
+    {"text6":"A powerful ritual dance from the 4La Guajira desert. To the steady beat of the kasha drum, women in flowing red mantles chase men in a circular arena, symbolizing the balance of power, gender harmony, and the movements of sacred animals. The performance is deeply tied to social structure, often marking important events such as puberty rites, weddings, and clan celebrations."},
     {"image3":"./Fotos/primeraFoto2.jpg"},
 
     {"text7":"Kogui Flute Rituals"},
-    {"text8":"Performed by the Elder Brothers of the Sierra Nevada, this music is a sacred dialogue with Aluna (Mother Earth). These melodies are not for entertainment but are vital offerings (pagamentos) intended to maintain the equilibrium of the entire world."},
+    {"text8":"Performed by the Elder Brothers of the Sierra Nevada, this music is a sacred dialogue with Aluna (Mother Earth). These melodies are not for entertainment but are vital offerings (pagamentos) intended to maintain the equilibrium of the entire world. The flutes are played alongside meditation, coca leaf rituals, and spiritual reflection guided by mamos (spiritual leaders)"},
     {"image4":"./Fotos/primeraFoto2.jpg"},
 
     {"text9":"Tonadas Indígenas"},
-    {"text10":"These are the  songs of the jungle sacred, often wordless vocalizations used by Amazonian tribes to communicate with plant spirits and animal protectors during shamanic ceremonies."},
+    {"text10":"These are the songs of the jungle sacred, often wordless vocalizations used by Amazonian tribes to communicate with plant spirits and animal protectors during shamanic ceremonies. Each melody can represent a specific plant, animal, or spirit, and shamans use them as tools for healing, navigation of the spiritual world, and transmission of ancestral knowledge."},
     {"image5":"./Fotos/primeraFoto.jpg"},
 
     {"text11":"Yapurutu"},
-    {"text12":"Found in the Vaupés region, these long, sacred flutes are played during the Dances of the Great House. They are considered living beings that connect the community to their mythic origins in the stars."},
+    {"text12":"Found in the Vaupés region, these long, sacred flutes are played during the Dances of the Great House. They are considered living beings that connect the community to their mythic origins in the stars. The instruments are often restricted to initiated men, and their sound represents ancestral voices guiding rituals and reinforcing social order."},
     {"image6":"./Fotos/primeraFoto2.jpg"},
 
     {"text13":"Sanjuanito (Inga & Kamëntsá)"},
-    {"text14":"A joyful, rhythmic genre from the southern Putumayo region. It is the soundtrack to the Carnival of Forgiveness, where indigenous communities use flutes and drums to celebrate reconciliation and the arrival of the new year."},
+    {"text14":"A joyful, rhythmic genre from the southern Putumayo region. It is the soundtrack to the Carnival of Forgiveness, where indigenous communities use flutes and drums to celebrate reconciliation and the arrival of the new year. Dancers wear traditional clothing and masks, expressing both indigenous identity and spiritual renewal."},
     {"image7":"./Fotos/primeraFoto.jpg"},
 
     {"text15":"Guabina"},
-    {"text16":"A melodic, often melancholic rhythm that reflects the soul of the Andean peasant. It carries a strong indigenous influence in its structure, typically accompanied by the tiple and the bandola."},
+    {"text16":"A melodic, often melancholic rhythm that reflects the soul of the Andean peasant. It carries a strong indigenous influence in its structure, typically accompanied by the tiple and the bandola. The lyrics often tell stories of love, rural life, and connection to the land, blending indigenous traditions with later mestizo culture."},
     {"image8":"./Fotos/primeraFoto2.jpg"},
 
     {"text17":"Rajaleña"},
-    {"text18":"While it has evolved into a folk style, its roots lie in the indigenous chants of the Huila region. It is characterized by its mischievous lyrics and the use of the queco (indigenous flute)."},
+    {"text18":"While it has evolved into a folk style, its roots lie in the indigenous chants of the Huila region. It is characterized by its mischievous lyrics and the use of the queco (indigenous flute). Performances often include improvised verses, humor, and community participation, especially during festivals like San Juan and San Pedro."},
     {"image9":"./Fotos/primeraFoto.jpg"},
 
     {"text19":"Cantos de Zafra"},
-    {"text20":"These are work songs or harvest chants found in the northern valleys. They represent a unique blend of indigenous vocal traditions and colonial labor history, often sung to keep pace during the harvest."},
+    {"text20":"These are work songs or harvest chants found in the northern valleys. They represent a unique blend of indigenous vocal traditions and colonial labor history, often sung to keep pace during the harvest. The repetitive rhythms help coordinate collective work while preserving oral traditions and shared memory."},
     {"image10":"./Fotos/primeraFoto2.jpg"},
-
+    
     {"text21":"Yanomami Chants"},
-    {"text22":"Representing music in its most primal form, these chants rely entirely on the human voice. They are used for social cohesion, resolving conflicts, and narrating the tribe's creation myths."},
+    {"text22":"Representing music in its most primal form, these chants rely entirely on the human voice. They are used for social cohesion, resolving conflicts, and narrating the tribe's creation myths. The chants often involve call-and-response patterns and can last for hours, creating a trance-like communal experience."},
     {"image11":"./Fotos/primeraFoto.jpg"},
-
+    
     {"text23":"Ticuna Flute Music"},
-    {"text24":"The Ticuna people use flutes to mark lifes most important transitions, such as the Pelazón (female rite of passage). The music is often paired with the deep, resonant booms of the Maguaré—giant log drums used to talk to the spirits."},
+    {"text24":"The Ticuna people use flutes to mark life’s most important transitions, such as the Pelazón (female rite of passage). The music is often paired with the deep, resonant booms of the Maguaré—giant log drums used to talk to the spirits. These ceremonies involve body painting, masks, and complex symbolic performances."},
     {"image12":"./Fotos/primeraFoto2.jpg"},
-
+    
     {"text25":"Ticuna Maguaré Drumming"},
-    {"text26":"Beyond the flute, the Maguaré is a communication system. These massive hollowed logs are struck to send messages across the jungle and summon spirits during communal ceremonies."},
+    {"text26":"Beyond the flute, the Maguaré is a communication system. These massive hollowed logs are struck to send messages across the jungle and summon spirits during communal ceremonies. Different rhythms carry specific meanings, allowing entire communities to communicate across long distances."},
     {"image13":"./Fotos/primeraFoto.jpg"},
-
+    
     {"text27":"Arhuaco Sacred Music"},
-    {"text28":"Similar to the Kogui, the Arhuaco use music as a form of meditation and environmental stewardship, often featuring the carrizos (flutes) to maintain cosmic order."},
+    {"text28":"Similar to the Kogui, the Arhuaco use music as a form of meditation and environmental stewardship, often featuring the carrizos (flutes) to maintain cosmic order. Music is inseparable from their worldview, where every sound is part of a larger responsibility to protect nature."},
     {"image14":"./Fotos/primeraFoto2.jpg"},
-
+    
     {"text29":"Tukano Sacred Trumpets "},
-    {"text30":"Distinct from the general Yapurutu, these specific instruments are used in highly secretive male initiation rites to represent the voice of the ancestors."},
+    {"text30":"Distinct from the general Yapurutu, these specific instruments are used in highly secretive male initiation rites to represent the voice of the ancestors. The sounds are believed to embody powerful spiritual forces and are strictly forbidden to women and uninitiated members."},
     {"image15":"./Fotos/primeraFoto.jpg"},
-
+    
     {"text31":"Nukak Maku Vocalizations (Amazon)"},
-    {"text32":"Being one of the last nomadic tribes, their music consists of subtle, soft vocalizations used during hunting and moving through the deep jungle."},
+    {"text32":"Being one of the last nomadic tribes, their music consists of subtle, soft vocalizations used during hunting and moving through the deep jungle. These sounds help maintain silence while still allowing communication, reflecting a deep adaptation to their environment."},
     {"image16":"./Fotos/primeraFoto2.jpg"}
  
 
